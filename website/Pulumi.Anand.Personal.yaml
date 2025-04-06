@@ -1,0 +1,6 @@
+encryptionsalt: v1:Yq22NsaPPrE=:v1:OP3C4j9gEhI1c7D7:c1oWV+ivmslckFG+TwblwQ6sy5V11Q==
+config:
+  AnandWeb:errorDocument: error.html
+  AnandWeb:indexDocument: index.html
+  AnandWeb:path: ./www
+  aws:region: us-east-1
